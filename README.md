@@ -1,3 +1,3 @@
 # dailygallery
 
-Abandoned frontend app for [https://github.com/RoGryza/servant-photo-gallery](servant-photo-gallery).
+Abandoned frontend app for [servent-photo-gallery](https://github.com/RoGryza/servant-photo-gallery).
